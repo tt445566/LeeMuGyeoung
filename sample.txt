@@ -1,0 +1,2 @@
+first commit
+add 변경을 인덱스에 등록하기
